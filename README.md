@@ -26,4 +26,8 @@
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/3731-find-missing-elements) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
