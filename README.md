@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3731-find-missing-elements](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/3731-find-missing-elements) |
@@ -34,5 +35,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
