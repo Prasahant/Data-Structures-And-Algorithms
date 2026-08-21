@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0035-search-insert-position) |
@@ -46,4 +47,8 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
