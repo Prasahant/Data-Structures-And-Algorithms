@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3731-find-missing-elements](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -48,6 +49,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
