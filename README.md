@@ -21,6 +21,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3731-find-missing-elements](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -68,6 +69,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1539-kth-missing-positive-number) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Prefix Sum
 |  |
 | ------- |
