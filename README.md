@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -54,6 +55,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0035-search-insert-position) |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0410-split-array-largest-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
