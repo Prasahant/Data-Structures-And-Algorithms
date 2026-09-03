@@ -52,6 +52,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0125-valid-palindrome) |
+| [1021-remove-outermost-parentheses](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,4 +99,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
