@@ -35,6 +35,7 @@
 | [0029-divide-two-integers](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0069-sqrtx) |
+| [1903-largest-odd-number-in-string](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0125-valid-palindrome](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Binary Search
 |  |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Prefix Sum
 |  |
