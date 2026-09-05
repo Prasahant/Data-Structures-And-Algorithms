@@ -54,6 +54,7 @@
 | [0125-valid-palindrome](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1021-remove-outermost-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,8 +106,13 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1021-remove-outermost-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1021-remove-outermost-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
