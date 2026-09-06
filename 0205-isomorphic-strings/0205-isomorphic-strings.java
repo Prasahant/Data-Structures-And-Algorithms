@@ -16,7 +16,7 @@ class Solution {
                 }
             }
             else{
-                int duplicate = map.get(original);
+                char duplicate = map.get(original);
                 if(duplicate!=replace){
                     return false;
                 }
