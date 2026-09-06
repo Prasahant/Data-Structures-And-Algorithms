@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -51,6 +52,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
