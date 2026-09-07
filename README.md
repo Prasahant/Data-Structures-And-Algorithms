@@ -66,6 +66,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Binary Search
@@ -120,11 +121,13 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
