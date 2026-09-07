@@ -46,11 +46,13 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [3731-find-missing-elements](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [3731-find-missing-elements](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -61,6 +63,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1903-largest-odd-number-in-string) |
@@ -134,4 +137,16 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
