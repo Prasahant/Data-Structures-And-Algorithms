@@ -33,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0069-sqrtx) |
@@ -44,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0451-sort-characters-by-frequency) |
@@ -57,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0125-valid-palindrome) |
