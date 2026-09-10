@@ -28,6 +28,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0410-split-array-largest-sum) |
 ## Math
@@ -59,6 +60,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0058-length-of-last-word) |
@@ -95,6 +97,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
@@ -155,4 +158,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0451-sort-characters-by-frequency) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
