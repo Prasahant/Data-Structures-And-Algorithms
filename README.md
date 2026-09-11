@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0451-sort-characters-by-frequency) |
