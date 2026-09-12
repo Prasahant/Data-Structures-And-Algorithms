@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0069-sqrtx) |
 | [1903-largest-odd-number-in-string](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1903-largest-odd-number-in-string) |
@@ -167,4 +169,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
