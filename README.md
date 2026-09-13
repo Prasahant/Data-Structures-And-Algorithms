@@ -41,6 +41,7 @@
 | [0048-rotate-image](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0258-add-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -143,6 +144,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
@@ -173,4 +175,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
