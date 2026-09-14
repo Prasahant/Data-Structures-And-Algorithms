@@ -42,6 +42,7 @@
 | [0050-powx-n](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0258-add-digits) |
+| [0836-rectangle-overlap](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -179,4 +180,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0258-add-digits) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
