@@ -117,6 +117,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0203-remove-linked-list-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -184,4 +185,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0836-rectangle-overlap) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
