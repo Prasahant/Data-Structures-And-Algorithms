@@ -13,6 +13,11 @@ class Solution {
         if(head==null || head.next==null){
             return null;
         }
+        //return bruteForce(head, n);
+        return optimalApproach(head, n);
+    }
+    public ListNode bruteForce(ListNode head, int n){
+        
         
         int cnt = 0;
         ListNode temp = head;
@@ -34,6 +39,23 @@ class Solution {
             }
             temp=temp.next;
         }
+        return head;
+    }
+    public ListNode optimalApproach(ListNode head, int n){
+        ListNode fast = head;
+        ListNode slow = head;
+        for(int i=0; i<n; i++){
+            fast=fast.next;
+        }
+        if (fast == null) {
+            return head.next;
+        }
+        while(fast.next!=null){
+            slow = slow.next;
+            fast=fast.next;
+        }
+        ListNode delnode = slow.next;
+        slow.next = delnode.next;
         return head;
     }
 }
