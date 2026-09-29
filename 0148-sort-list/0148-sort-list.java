@@ -10,7 +10,8 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        return mergeSortApproach(head);
+        //return mergeSortApproach(head);
+        return bruteForce(head);
     }  
     public ListNode mergeSortApproach(ListNode head){
         if(head==null || head.next==null){
@@ -76,5 +77,24 @@ class Solution {
             temp.next = temp2;
         }
         return dummyNode.next;
+    }
+
+    public ListNode bruteForce(ListNode head){
+        if(head==null || head.next==null){
+            return head;
+        }
+        ArrayList<Integer>list = new ArrayList<>();
+        ListNode temp = head;
+        while(temp!=null){
+            list.add(temp.val);
+            temp=temp.next;
+        }
+        Collections.sort(list);
+        temp = head;
+        for(int num:list){
+            temp.val = num;
+            temp = temp.next;
+        }
+        return head;
     }
 }
