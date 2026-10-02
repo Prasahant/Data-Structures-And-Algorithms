@@ -17,6 +17,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0029-divide-two-integers) |
+| [0287-find-the-duplicate-number](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
@@ -127,6 +130,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Newton's Method
@@ -242,6 +246,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -263,4 +268,8 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1472-design-browser-history) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
