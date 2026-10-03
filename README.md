@@ -272,4 +272,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0287-find-the-duplicate-number) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
