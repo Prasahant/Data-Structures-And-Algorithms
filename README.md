@@ -50,6 +50,7 @@
 | [0258-add-digits](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/1903-largest-odd-number-in-string) |
+| [2235-add-two-integers](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
