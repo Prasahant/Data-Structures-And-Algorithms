@@ -13,6 +13,7 @@
 | [0040-combination-sum-ii](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0051-n-queens) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -284,4 +285,9 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
