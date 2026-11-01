@@ -65,6 +65,7 @@
 | [0231-power-of-two](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0371-sum-of-two-integers) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Hash Table
 |  |
 | ------- |
