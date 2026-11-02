@@ -15,6 +15,7 @@
 | [0041-first-missing-positive](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0371-sum-of-two-integers) |
@@ -303,6 +305,7 @@
 | [0037-sudoku-solver](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Prasahant/Data-Structures-And-Algorithms/tree/master/0078-subsets) |
 ## Algorithm X
 |  |
 | ------- |
